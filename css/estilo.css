@@ -347,10 +347,14 @@ margin-left: -50px !important;
 
 }
 @media screen and (max-width: 768px){
+    
     .nav-link{
         text-align: center !important;
-        
+        margin-left: auto !important;   
     }
+    .navbar-nav{
+        margin-left: auto !important;
+        }
 
     /*FOOTER*/
 
@@ -417,6 +421,13 @@ margin-left: -50px !important;
 
 @media screen and (max-width:320px){
     /*PRODUCTOS*/
+    .nav-link{
+        text-align: center !important;
+        margin-left: auto !important;   
+    }
+    .navbar-nav{
+        margin-left: auto !important;
+        }
     .container__main{
         display: flex;
         flex-direction: column;
