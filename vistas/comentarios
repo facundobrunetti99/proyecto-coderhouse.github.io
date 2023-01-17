@@ -53,37 +53,7 @@
                         <h1 class="h1-title">ANALU</h1>
                         <h2 class="h2-title">¿Quienes somos?</h2>
                     </div>
-                    <p class="main__parrafo">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque voluptatibus amet doloremque corporis, corrupti perspiciatis earum nulla illo modi. Doloribus a voluptatem molestiae dolorem impedit nobis assumenda exercitationem saepe at?Lorem ipsum dolor sit, amet consectetur adipisicing elit. A nemo recusandae tenetur totam modi dicta. Inventore quam quasi consectetur ut. Praesentium, eius voluptatum ipsum autem magnam dignissimos a. Dignissimos, itaque!
-                    </p>
-                  
-                        <div class="main__cont__img">
-                            <img class="main__img" src="../imagenes/img32.png">
-                        </div>
-                        
-                        <h2 class="main__h2--equipo">NUESTRO EQUIPO</h2>
-            
-                      <section class="main__equipo" data-aos="zoom-in" data-aos-delay="400">   
-                            <div class="main__equipo--personas">
-                                <img src="../imagenes/equipo1.png" class="main__equipo--img">
-                                <p class="main__equipo--desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim architecto assumenda animi? Iure distinctio error ullam.</p>
-                            </div>
-                            <div class="main__equipo--personas">
-                                <img src="../imagenes/equipo2.png" class="main__equipo--img">
-                                <p class="main__equipo--desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim architecto assumenda animi? Iure distinctio error ullam.</p>
-                            </div>
-                            <div class="main__equipo--personas">
-                                <img src="../imagenes/equipo3.png" class="main__equipo--img">
-                                <p class="main__equipo--desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim architecto assumenda animi? Iure distinctio error ullam.</p>
-                            </div>
-                      </section>  
-                </div>
-            </div>
-
-
-
-
-    </main>
+                
     <footer class="footer" data-aos="fade-down">
         <div class="footer__redes">
                 <h2 class="footer__h2">REDES</h2>
